@@ -1,7 +1,7 @@
 # Week-7-Project-WordPress-vs.-Kali
 
 
-[!] Title: WordPress <= 4.2 - Unauthenticated Stored Cross-Site Scripting (XSS) /n
+[!] Title: WordPress <= 4.2 - Unauthenticated Stored Cross-Site Scripting (XSS)
     Reference: https://www.exploit-db.com/exploits/36844/
 [i] Fixed in: 4.2.1
 If triggered by a logged-in administrator, under default settings the attacker can leverage the vulnerability to 
