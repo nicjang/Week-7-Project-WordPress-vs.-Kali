@@ -17,12 +17,12 @@ A screen cap
 
 
 WordPress <= 4.2 - Unauthenticated Stored Cross-Site Scripting (XSS)
-<img src="https://imgur.com/a/bmKfV" width="800">
+<img src="https://i.imgur.com/kKKLoZh.gif" width="800">
 
 
 Top 10 2013-A3-Cross-Site Scripting (XSS)
-<img src="https://imgur.com/a/ARtWr" width="800">
+<img src="https://i.imgur.com/3mrNRXU.gif" width="800">
 
 
 WordPress 4.0-4.7.2 - Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
-<img src="https://imgur.com/msRn9YG" width="800">
+<img src="https://i.imgur.com/msRn9YG.gif" width="800">
