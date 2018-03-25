@@ -25,4 +25,4 @@ Top 10 2013-A3-Cross-Site Scripting (XSS)
 
 
 WordPress 4.0-4.7.2 - Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
-<img src="https://imgur.com/a/vYStX" width="800">
+<img src="https://imgur.com/msRn9YG" width="800">
