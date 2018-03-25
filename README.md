@@ -25,7 +25,7 @@ we would get a working XSS exploit that would forward wpdistillery.vm visitors t
     Reference: https://blog.sucuri.net/2017/03/stored-xss-in-wordpress-core.html <br>
 This issue was patched in WordPress 4.7.3. <br>
 If the attacker could trick the admin to post this as a comment: <br>
-<code><embed src='https://youtube.com/embed/12345\x3csvg onload=alert(1)\x3e'></embed> </code><br>
+<code>[embed src='https://youtube.com/embed/12345\x3csvg onload=alert(1)\x3e'][/embed] </code><br>
 we could get a stored XSS exploit. <br>
 <img src="https://i.imgur.com/msRn9YG.gif" width="800"> <br>
 
